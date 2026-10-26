@@ -18,7 +18,7 @@ Evaluating unit economics in direct-to-consumer e-commerce requires isolating re
 ## How to Run
 ```bash
 # Clone the repository
-git clone [https://github.com/puneetgoswami1/cross-border-d2c-cohort-ltv-engine.git](https://github.com/puneetgoswami1/cross-border-d2c-cohort-ltv-engine.git)
+git clone https://github.com/puneetgoswami1/cross-border-d2c-cohort-ltv-engine.git
 cd cross-border-d2c-cohort-ltv-engine
 
 # Install dependencies
